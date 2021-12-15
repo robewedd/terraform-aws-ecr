@@ -1,5 +1,7 @@
 <a href="https://lacework.com"><img src="https://techally-content.s3-us-west-1.amazonaws.com/public-content/lacework_logo_full.png" width="600"></a>
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/3a456743-24b7-4d5e-b4c7-48a57107abe8.svg)](https://app.soluble.cloud/repos/details/github.com/robewedd/terraform-aws-ecr)  
+
 # terraform-aws-ecr
 
 [![GitHub release](https://img.shields.io/github/release/lacework/terraform-aws-ecr.svg)](https://github.com/lacework/terraform-aws-ecr/releases/)
